@@ -49,7 +49,10 @@
     width: 100%; 
     padding: 0px; 
 }
-
+.image-text-container {
+    position:center;
+    display: block;
+   }
    #myBtn {    /*кнопки назад*/
     display: block;
     position: fixed;
